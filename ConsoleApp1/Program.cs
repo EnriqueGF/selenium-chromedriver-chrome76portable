@@ -26,7 +26,7 @@ namespace ConsoleApp1
             options.AddExcludedArguments(ls);
             options.AddArgument("--disable-plugins-discovery");
             // Perfil de Chrome
-            options.AddArguments(path + @"GoogleChromePortable64\Data\profile\Default");
+            options.AddArguments(@"user-data-dir=" + path + @"GoogleChromePortable64\Data\profile");
             options.BinaryLocation = (path + @"GoogleChromePortable64\App\Chrome-bin\chrome.exe");
 
             var driver = new ChromeDriver(options);

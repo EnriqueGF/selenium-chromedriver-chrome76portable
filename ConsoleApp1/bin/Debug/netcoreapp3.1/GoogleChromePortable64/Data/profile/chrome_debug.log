@@ -1,0 +1,9 @@
+[17860:16996:0221/235545.367:ERROR:block_files.cc(469)] Failed to open C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable-76\ConsoleApp1\bin\Debug\netcoreapp3.1\GoogleChromePortable64\Data\profile\ShaderCache\GPUCache\data_3
+[17860:10484:0221/235545.371:ERROR:cache_util_win.cc(21)] Unable to move the cache: Acceso denegado. (0x5)
+[17860:10484:0221/235545.372:ERROR:cache_util.cc(141)] Unable to move cache folder C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable-76\ConsoleApp1\bin\Debug\netcoreapp3.1\GoogleChromePortable64\Data\profile\ShaderCache\GPUCache to C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable-76\ConsoleApp1\bin\Debug\netcoreapp3.1\GoogleChromePortable64\Data\profile\ShaderCache\old_GPUCache_000
+[17860:10484:0221/235545.372:ERROR:disk_cache.cc(178)] Unable to create cache
+[17860:10484:0221/235545.372:ERROR:shader_disk_cache.cc(623)] Shader Cache Creation failed: -2
+[17860:2036:0221/235545.610:WARNING:leveldb_database.cc(106)] Unable to open C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable-76\ConsoleApp1\bin\Debug\netcoreapp3.1\GoogleChromePortable64\Data\profile\Default\shared_proto_db: Invalid argument: C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable-76\ConsoleApp1\bin\Debug\netcoreapp3.1\GoogleChromePortable64\Data\profile\Default\shared_proto_db: does not exist (create_if_missing is false)
+[17860:10484:0221/235549.359:ERROR:browser_process_sub_thread.cc(203)] Waited 33 ms for network service
+[17860:12368:0221/235549.362:WARNING:pref_notifier_impl.cc(36)] Pref observer for browser.relaunch_notification_period found at shutdown.
+[17860:12368:0221/235549.362:WARNING:pref_notifier_impl.cc(36)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
