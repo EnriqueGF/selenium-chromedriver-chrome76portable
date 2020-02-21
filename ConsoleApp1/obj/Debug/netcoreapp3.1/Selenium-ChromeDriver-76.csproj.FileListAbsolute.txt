@@ -1,0 +1,14 @@
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.exe
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.deps.json
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.runtimeconfig.json
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.pdb
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.csproj.CopyComplete
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\Selenium-ChromeDriver-76.pdb

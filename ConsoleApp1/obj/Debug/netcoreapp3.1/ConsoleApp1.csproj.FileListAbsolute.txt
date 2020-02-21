@@ -1,0 +1,42 @@
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Enrique\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Enrique\Desktop\Selenium Chromedriver con Chrome Portable 76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Enrique\Desktop\Selenium-Chromedriver-Chrome-Portable -76\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
